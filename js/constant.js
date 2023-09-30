@@ -4,8 +4,8 @@ const shippingFee = 500 + 1;
 //コンソールへの出力
 console.log(shippingFee);
 
-// 値の再代入（エラー）
-shippingFee = 800;
+// // 値の再代入（エラー）
+// shippingFee = 800;
 
  // コンソールへの出力
  console.log(shippingFee);
