@@ -5,7 +5,7 @@ let num = Math.floor(Math.random() * 100);
 console.log(num);
 
 // 変数(num)が3と5の倍数の場合： “3と5の倍数です”
-if (num % 3 === 3 && num % 5 === 5) {
+if (num % 3 === 0 && num % 5 === 0) {
   console.log('3と5の倍数です');
 }
 // 変数(num)が3の倍数の場合： “3の倍数です”
